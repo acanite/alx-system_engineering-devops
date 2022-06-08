@@ -1,1 +1,1 @@
-my readme file
+README.md file for shell variable expansion
