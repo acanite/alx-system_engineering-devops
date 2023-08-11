@@ -1,8 +1,9 @@
 
 stmortem Report
 504 Error while accessing a given URL
+![image](https://github.com/acanite/alx-system_engineering-devops/assets/100510532/5e82e882-11a6-4377-a2bd-de34dcd8e473)
 
-'/c/Users/Acanite/Desktop/new image.gif'
+
 
 Incident report for 504 error / Site Outage
 Summary

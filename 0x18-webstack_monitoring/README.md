@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 General
 Allowed editors: vi, vim, emacs
+=======
+llowed editors: vi, vim, emacs
+>>>>>>> 676d7da8153308f419abdacf41d429ea156ccfbe
 All your files will be interpreted on Ubuntu 16.04 LTS
 All your files should end with a new line
 A README.md file, at the root of the folder of the project, is mandatory

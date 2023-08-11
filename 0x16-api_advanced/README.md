@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 API advanced I continued to practice querying API's in this advanced project, this time working with the Reddit API.
 
 Tests ✔️ tests: Folder of test files for all tasks. Provided by ALX. Function Prototypes 💾 Prototypes for functions written in this project:
@@ -15,3 +16,6 @@ Top Ten
 
 
 
+=======
+API ADVANCED
+>>>>>>> 676d7da8153308f419abdacf41d429ea156ccfbe
